@@ -1,11 +1,8 @@
-# Plantilla Práctica 1
-Este es un repositorio básico para comprobar cómo funciona GitHub y, especialmente, GitHub Classroom.
+PRACTICA 2.
 
-Tu tarea consiste en modificar este fichero README.md de modo que pongas tus datos en formato MarkDown:
+- Descripción del juego:
+El título de mi juego es '¿Un bonito insomnio o un mal despertar?'. Cuenta la que podría ser la noche de cualquier estudiante, en este caso es la mía, donde en ocasiones me suelo desvelar.
+Es un juego interactivo donde permito que el jugador eliga qué decisión voy a tomar y razón de esta me ocurrirá una cosa u otra.
 
-### Rocío Domingo Aguilar
-
-Profesor del departamento de Informática de la Universidad de Jaén.
-* **Correo**: rda00010@red.ujaen.es
-* **GitHub**: https://github.com/rda00010
-* **Trello**: https://trello.com/b/newQsvU4/pr%C3%A1cticas
+- URL de mi tablero de Trello:
+https://trello.com/b/aCVU3cvk/pr%C3%A1ctica-2
